@@ -1,0 +1,18 @@
+{
+  "name": "testpkgg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@chapi/domain": "^0.1.5",
+    "@jetbrains/kotlin-extensions": "^1.0.1-pre.91",
+    "kotlin": "^1.3.61",
+    "kotlinx-serialization-kotlinx-serialization-runtime": "^0.14.0"
+  }
+}
